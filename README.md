@@ -2,7 +2,8 @@
 
 O YT Downloader é uma aplicação web que permite baixar vídeos do YouTube de forma rápida e simples. Esta aplicação foi criada como uma interface amigável para interagir com a biblioteca pytube.
 
-![YT Downloader Screenshot](public/placeholder.svg)
+![tela youtube download](https://github.com/user-attachments/assets/4f09decd-2c3f-44d8-ab05-6c07513b82d3)
+
 
 ## 📋 Funcionalidades
 
