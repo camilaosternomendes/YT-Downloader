@@ -54,22 +54,3 @@ npm run dev
 
 Atualmente, esta é uma implementação de front-end. A funcionalidade real de download dos vídeos usando pytube ainda precisa ser implementada através de uma integração backend.
 
-## 🔮 Próximas Etapas
-
-- Implementar backend Python com pytube
-- Adicionar opções de qualidade de vídeo
-- Permitir download apenas do áudio
-- Implementar histórico de downloads
-- Adicionar suporte para outras plataformas além do YouTube
-
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Desenvolvido com ❤️ para facilitar seus downloads de vídeos do YouTube.
